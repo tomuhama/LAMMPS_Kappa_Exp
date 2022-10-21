@@ -5,6 +5,8 @@ LAMMPSの熱伝導率計算の例
   - Muller-Plathe法でNEMD(rNEMD)
 - in.heatflux
   - Green-Kuboで計算するためのEMD
+- cal_thermal_cond.py
+  - 熱流束のlog(thermo)のデータから熱伝導率計算
 - Si_NEMD_Fitting.png
   - ある長さにおけるNEMDの温度勾配Fitting
 - Si_NEMD_Fitting_length.png
